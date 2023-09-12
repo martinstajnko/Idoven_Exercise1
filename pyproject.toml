@@ -4,7 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["Martin S"]
 readme = "README.md"
-packages = [{include = "idoven_exercise1"}]
+packages = [{include = "tests"}]
 
 
 [tool.poetry.dependencies]
